@@ -1,0 +1,27 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "survey monkey description",
+  "main": "fisrtApp.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node fisrtApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeeha-kk/firstApp.git"
+  },
+  "keywords": [
+    "survey",
+    "monkey"
+  ],
+  "author": "madeeha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeeha-kk/firstApp/issues"
+  },
+  "homepage": "https://github.com/madeeha-kk/firstApp#readme"
+}
