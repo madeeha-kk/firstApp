@@ -1,0 +1,235 @@
+
+body{
+	margin:0;
+	padding:0;
+	font-size:15px;
+	font-family: National2,,Arial,sans-serif ;
+	display:block;
+	height:100%;
+	}
+#container{
+	width:100%;
+}
+#header{
+	width:95%;
+	padding:30px 40px 20px 40px;
+}
+#header.img{
+	display:inline-block;
+	float:left;
+	width:240px;
+	text-align:left;
+	
+}
+#header .signin {
+	float:right;
+	padding:10px 21px;
+	border:2px solid #6B787F;
+	line-height:16px;
+	text-decoration:none;
+	font-size:13px;
+	display:block;
+	background-color:transparent;
+	font-weight:400;
+	color:#6B787F;
+	font-family: National2,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	
+	}
+	.full-div{
+	max-width:838px;
+	width:auto;
+	padding:32px 0 16px 0;
+	margin:0 auto;
+	}
+	.account-module{
+	margin:auto;
+	padding:0 24px;
+	font-size:13px;
+	line-height:1.4;
+	color:#333E48;
+}
+.full-column{
+	position: relative;
+	width:100%;
+	display:table;
+	margin-bottom:23px;
+	}
+
+
+ .first-column{
+	display:table-cell;
+	width:100%;
+	
+	
+}
+.h1-column{
+	color:#333E48;
+	font-size:34px;
+	font-weight:400;
+	float:left;
+	margin:0;
+	
+	
+}
+ .second-column{
+	text-align:right;
+	font-size:12px;
+	color:#333E48;
+	vertical-align:top;
+	min-width:200px;
+	
+}
+.second-column p{
+	margin: 0;
+}
+.anchor {
+	font-weight:bold;
+	color:#0074AA;
+	text-decoration:none;
+	font-size:12px;
+	text-align:left;
+	
+}
+
+#join{
+	height:auto;
+	min-height:500px;
+	background:#edeeee;
+    position:relative;
+	overflow:hidden;
+	box-sizing:border-box;
+	width:100%;
+	
+	}
+
+
+
+
+ .left-div{
+	border-right:1px solid #fff;
+    width:40%;
+	display:block;
+	padding:32px;
+	float:left;
+	height:100%;
+	}
+	form{
+		margin:0;
+		padding:0;
+		display:block;
+		
+	}
+	input{
+		line-height:normal;
+		font-size:100%;
+		margin:0;
+		font-family: National2,"Helvetica Neue",Helvetica,Arial,sans-serif ;
+	}
+	fieldset{
+		border:0;
+		margin:0;
+		padding:0;
+	}
+	ul{
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+	 li{
+		margin-bottom:24px;
+	}
+	.inlabel{
+		font-size:15px;
+		font-weight:500;
+		color:#333e48;
+		margin-bottom:10px;
+		display:inline-block;
+	}
+	label{
+		cursor:default;
+	}
+	.user_input{
+		border:1px solid #D0D2D3;
+		width:100%;
+		line-height:1.4;
+		font-size:15px;
+		padding:8px 12px;
+	    border-radius:2px;
+	}
+	.bttn-up{
+		background-color:#00BF6F;
+		line-height:1.5;
+		width:100%;
+		padding:12px 8px;
+		color:#ffffff;
+		font-size:15px;
+		display:block;
+		margin:0 auto;
+	}
+	p{
+		display:block;
+	}
+	 .right-div h3{
+		font-size:16px;
+		margin:0;
+		padding:0;
+		display:block;
+		font-weight:bold;
+	font-family: National2,"Helvetica Neue",Helvetica,Arial,sans-serif !important
+	}
+	.right-div p{
+		margin:15px 0;
+		color:#000;
+		
+	}
+	.right-div p.G-signup{
+		margin-top:20px;
+		background-image:url("https://secure.surveymonkey.com/assets/userweb/userweb/184.0.0/assets/images/google.png");
+	    background-size:5%;
+		background-repeat:no-repeat;
+		background-position:5% 50%;
+		border:1px solid #9DA5AA;
+		font-size:14px;
+		font-weight:400;
+		padding:8px 18%;
+		
+        width:61%;
+        margin:0 auto;
+		color:#9DA5AA;
+		font-family: National2,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		background-color:#fff;
+	}
+	.right-div p.F-signup{
+		margin-top:20px;
+		background-image:url("https://secure.surveymonkey.com/assets/userweb/userweb/184.0.1/assets/images/facebook.png");
+		background-repeat:no-repeat;
+		background-size:7%;
+		border:1px solid #9DA5AA;
+		padding:8px 18%;
+		background-position:5% 50%;
+		width:61%;
+		font-size:14px;
+		font-weight:400;
+		font-family: National2,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	   background-color:#fff;
+	
+	}
+	.right-div  a{
+		text-decoration:none;
+		color:#9DA5AA;
+		
+	}
+	.right-div h3{
+		font-size:16px;
+		font-weight:bold;
+		margin:8px;
+		padding:8px;
+	}
+	
+	.right-div{
+	position:relative;
+	width:40%;
+	display:block;
+	float:right;
+	}
+	
